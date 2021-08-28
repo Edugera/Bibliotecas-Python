@@ -1,2 +1,2 @@
-# Bibliotecas-Python
+# python libraries
 This repository keeps the studies carried out in the courses and in-depth documentation of the respective libraries.
